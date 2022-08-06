@@ -19,3 +19,11 @@
 <p> 9) Calculate sin, cosine, tangent of a variable given by the user using math.h library. *Hint* sin(x), cos(x) and tan(x) </p>
 <p> 10) Calculate power of variable given by the user also calculate square root of the given variable using math.h library. *Hint* use sqrt(x) for square root and pow (base, exponent).</p>
 
+<h3> Level 3 Tasks  ******************************************************************************** </h2>
+<p> Implement a program to show the difference between prefix and postfix increment and decrement operators((++a,,a++,,--a,,a--)) <p>
+<p> Write a program to implement the followiing equatiions where a=5,,b=6 and c=0 intiially 1.. a++b++c 2.. b--a--c 3.. ++a+++b+c <p>
+<p> Write a program to implement and check the working of relational and logiical operators.. Where a=7 and b =6;; 1.. a>b&&2<5--4 2.. a>b&&2<5+4 <p>
+<p> Write a program to use a bitwise OR/AND between any to operands enter by the user </p>
+<p> Write a program to find the numberis even or notifitis even print 1 ellse print 0 </p>
+
+<h3> Level 4 Tasks  ******************************************************************************** </h2>
