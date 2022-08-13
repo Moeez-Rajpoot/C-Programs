@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+	long long int pro=1;
+	int n=1;
+	while(n<=30){
+		if(n%2!=0){
+			pro=pro*n;
+	}
+	n++;
+}
+cout<<"THE PRODUCT OF 1st 30 ODD NO IS = "<<pro;
+return 0;
+}
