@@ -163,28 +163,33 @@ Number is : 5 and cube of the 5 is :125 </p>
   <p> 11) Write a program to print the Right diagonal of a 2d square matrix of any size. Also find its sum </p>
   
    <b><h3> Level 8 Tasks  ******************************************************************************** </h3></b>
-  <p> 1) </p>
-  <p> 2) </p>
-  <p> 3) </p>
-  <p> 4) </p>
-  <p> 5) </p>
-  <p> 6) </p>
-  <p> 7) </p>
-  <p> 8) </p>
-  <p> 9) </p>
-  <p> 10) </p>
+  <p> 1) Write a program in C++ to find the square of any number using the function </p>
+  <p> 2) Write a program for a calculator using functions against user choice do not end the program until the user want. </p>
+  <p> 3) Write a program to find with two function having max and min to find max and minimum between two. </p>
+  <p> 4) Define a program to find out whether a given number is even or odd.</p>
+  <p> 5) Define a function to find out if number is prime or not.</p>
+  <p> 6) Write a program to find area of circle and area of rectangle using an overloaded function area () function </p>
+  <p> 7) Write a program to find minimum between five numbers using user defined function </p>
+  <p> 8) Write a program in C++ using a swap function to do the swapping. (hint more than 2 values needed to be returned) </p>
+  <p> 9) write a program In a Company an employee is paid as under:
+•	If his basic salary is less than RS. 1500, then HRA=10% of basic salary and DA=90% of basic.
+•	If his salary is either equal to or above RS. 1500, then HRA =500, and DA=98% of Basic Salary.
+•	If the Employee Salary is input through the keyboard write a program to find his gross salary.
+Where gross salary = HRA + Basic Salary + DA 
+Note: The value of HRA and DA should be returned to calculate the gross salary in the main function. </p>
+  <p> 10) Write a program in C++ to find “maximum” between two variables for integers and float values. Use function overloading. </p>
   
    <b><h3> Level 9 Tasks  ******************************************************************************** </h3></b>
-  <p> 1) </p>
-  <p> 2) </p>
-  <p> 3) </p>
-  <p> 4) </p>
-  <p> 5) </p>
-  <p> 6) </p>
-  <p> 7) </p>
-  <p> 8) </p>
-  <p> 9) </p>
-  <p> 10) </p>
+  <p> 1) Write a program to find the square of a number using function template</p>
+  <p> 2) Write a function to swap two variables of any type. Using function templates</p>
+  <p> 3) Write a program for a calculator using functions against user choice do not end the program until the user want.
+Note: “Your functions should be able to take any kind of variable i-e it should be able to take integers, floats and double and give u the result accordingly </p>
+  <p> 4) Write a program to Calculate Sum of Natural numbers up to n using Recursion</p>
+  <p> 5) Write a program to factorial of a number n using Recursion.</p>
+  <p> 6) Write a program to calculate HCF of two numbers using a recursive function </p>
+  <p> 7) Write a program to find the sum of digits of a number n using recursive function. e.g. 456 sum = 15 </p>
+  <p> 8) Write a program to print a specific Fibonacci number using recursion. e.g. Fibonacci of 4 = 3 </p>
+  <p> 9) Write a program to print a Fibonacci series to a number n using recursion. </p>
   
   
   
