@@ -97,3 +97,37 @@ If a year is divisible by 4 then it is leap year but if the year is century year
 INPUT : 1234        OUTPUT : 4321
 INPUT : 5982        OUTPUT : 2895
  </p>
+ <b><h3> Level 4 Tasks  ******************************************************************************** </h2></b>
+ <p> 1) Write a program in C++ to display the first 10 natural numbers using while, for and do while. </p>
+ <p> 2) Write a program in C++ to and find the product and average of first 10 integer. Using while and for
+1*2*3*4*5*6*7*8*9*10 = ?
+</p>
+ <p> 3) Write a program in C++ to display the multiplication table of a given integer </p>
+ <p> 4) Write a program to calculate the factorial of a number n. </p>
+ <p> 5) Print ASCII values and their equivalent characters. ASCII value vary from 0 to 127.</p>
+ <p> 6) Write a program in c++ using for loop to print odd numbers form range 0 to 100</p>
+ <p> 7) Write a program in C++ to display the cube of the number upto given an integer
+Test Data :
+Input number of terms : 5
+Expected Output :
+Number is : 1 and cube of the 1 is :1
+Number is : 2 and cube of the 2 is :8
+Number is : 3 and cube of the 3 is :27
+Number is : 4 and cube of the 4 is :64
+Number is : 5 and cube of the 5 is :125 </p>
+ <p> 8) Write three different programs that calculate and print the product of odd integers from 1 to 30, using 
+⦁	For
+⦁	While
+⦁	Do –while statements
+</p>
+ <p> 9) Write a program to check weather the number is prime or not? </p>
+ <p> 10) Write a program to check whether the character enter is capital or small. Also ask the choice if the user want to continue or stop. At the end show the total number of times the capital letter is entered and total number of time small letter is entered</p>
+ <p> 11) Write a program in C++ to find the number and sum of all integer between 100 and 200 which are divisible by 7.</p>
+ <p> 12) Write a program which take a number and print the month name and number of days in it. Also use a sentinel-controlled loop at the end and ask the user if he wants to continue or not </p>
+ <p> 13) Write a program for a calculator between two inputs using switch statements on different operator also use a sentinel controlled loop to ask the user if he want to calculate more no. with any other operator </p>
+ <p> 14) Write a do-while loop that asks the user to enter two numbers. The numbers should be added and the sum displayed. The loop should ask the user whether he or she wishes to perform the operation again. If so, the loop should repeat; otherwise it should terminate</p>
+ <p> 15) Write a program to enter the numbers till the user wants and at the end it should display the count of positive, negative and zeros entered </p>
+ <p> 16) Write a program to enter the numbers till the user wants and at the end the program should display the largest and smallest numbers entered. </p>
+ <p> 17) Write a program to calculate the sum of following series where n is input by user. 
+1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n </p>
+ <p> 18) Write a C program to input a number and calculate sum of digits using for loop. How to find sum of digits of a number in C program. Logic to find sum of digits of a given number in C programming </p>
