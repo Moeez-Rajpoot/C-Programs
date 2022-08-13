@@ -1,13 +1,13 @@
 # C ++ Programs
  This respository contains C++ programs from beginner level to Advance Level
- <b><h3> Level 1 Tasks ******************************************************************************** </h2></b>
+ <b><h3> Level 1 Tasks ******************************************************************************** </h3></b>
  <p> 1) Write a program to print your name on the screen </p>
  <p> 2) Write a program and print any statement using escape sequence \n and \t </p>
  <p> 3) Write a program to print the following paragraph as it is shown..... </p>
  <p> 4) Write a program and use \a escape sequence and analyze what is happening </p>
  <p> 5) Write a program to print a tree using \t and \n </p>
 
-<b><h3> Level 2 Tasks  ******************************************************************************** </h2></b>
+<b><h3> Level 2 Tasks  ******************************************************************************** </h3></b>
 <p> 1) Write a program to declare two variable and show the values saved in it. </p>
 <p> 2) Write a program to find the sum of two numbers initialized in the program </p>
 <p> 3) Write a program to take inputs from the user in two integers variable and find the sum of it. </p>
@@ -19,14 +19,14 @@
 <p> 9) Calculate sin, cosine, tangent of a variable given by the user using math.h library. *Hint* sin(x), cos(x) and tan(x) </p>
 <p> 10) Calculate power of variable given by the user also calculate square root of the given variable using math.h library. *Hint* use sqrt(x) for square root and pow (base, exponent).</p>
 
-<b><h3> Level 3 Tasks  ******************************************************************************** </h2></b>
+<b><h3> Level 3 Tasks  ******************************************************************************** </h3></b>
 <p> 1) Implement a program to show the difference between prefix and postfix increment and decrement operators((++a,,a++,,--a,,a--)) <p>
 <p> 2) Write a program to implement the followiing equatiions where a=5,,b=6 and c=0 intiially 1.. a++b++c 2.. b--a--c 3.. ++a+++b+c <p>
 <p> 3) Write a program to implement and check the working of relational and logiical operators.. Where a=7 and b =6;; 1.. a>b&&2<5--4 2.. a>b&&2<5+4 <p>
 <p> 4) Write a program to use a bitwise OR/AND between any to operands enter by the user </p>
 <p> 5) Write a program to find the numberis even or notifitis even print 1 ellse print 0 </p>
 
-<b><h3> Level 4 Tasks  ******************************************************************************** </h2></b>
+<b><h3> Level 4 Tasks  ******************************************************************************** </h3></b>
  <p> 1) Write a Program which takes and integer or float value and tells whether it is positive or negative </p>
  <p> 2) Write a program to find the number of bytes occupied by various data types using the size of operator? </p>
  <p> 3) Write a Program which take a number from user and check weather it is even or odd ? </p>
@@ -97,7 +97,7 @@ If a year is divisible by 4 then it is leap year but if the year is century year
 INPUT : 1234        OUTPUT : 4321
 INPUT : 5982        OUTPUT : 2895
  </p>
- <b><h3> Level 4 Tasks  ******************************************************************************** </h2></b>
+ <b><h3> Level 5 Tasks  ******************************************************************************** </h3></b>
  <p> 1) Write a program in C++ to display the first 10 natural numbers using while, for and do while. </p>
  <p> 2) Write a program in C++ to and find the product and average of first 10 integer. Using while and for
 1*2*3*4*5*6*7*8*9*10 = ?
@@ -131,3 +131,73 @@ Number is : 5 and cube of the 5 is :125 </p>
  <p> 17) Write a program to calculate the sum of following series where n is input by user. 
 1 + 1/2 + 1/3 + 1/4 + 1/5 +…………1/n </p>
  <p> 18) Write a C program to input a number and calculate sum of digits using for loop. How to find sum of digits of a number in C program. Logic to find sum of digits of a given number in C programming </p>
+  
+  <b><h3> Level 6 Tasks  ******************************************************************************** </h3></b>
+  <p> 1) Write a program to declare an array of size = 10 and take inputs in it from the user</p>
+  <p> 2) Write a program to declare an array of size = 10 and take inputs in it from the user and print its values </p>
+  <p> 3) Write a program to print a specific index value of an array index enter by the user.</p>
+  <p> 4) Develop a Program that takes array elements from user and then transfer those elements to another array. Size of array will be 10 </p>
+  <p> 5) Find the Average of 10 numbers passed to an array and display the results. </p>
+  <p> 6) Write a program to input data into two different arrays and then to add the two arrays and store the result in the third array </p>
+  <p> 7) Write a program to search a specific value in array </p>
+  <p> 8) Write a C++ program to find the largest element of a given array of integers </p>
+  <p> 9) Write a program to find the percentage of student and then find its grade. take the subject marks in an array of size=5 </p>
+  <p> 10) Write a program for a grocery shop with two parallel arrays of size = 10 with cost and quantity. calculate the total bill of a customer </p>
+  <p> 11) Write a program to print your name in reverse order </p>
+  <p> 12) Write a C++ program to find the largest three elements in an array </p>
+  <p> 13) Write a C++ program to separate 0s and 1s from a given array of values 0 and 1 </p>
+  <p> 14) Write a C++ program to find the percentage attendance of a single student using a Boolean array of 20 days with true means present and false means absent. </p>
+
+  
+   <b><h3> Level 7 Tasks  ******************************************************************************** </h3></b>
+  <p> 1) Write a C++ Program to store temperature of 3 different cities for a week and display it. </p>
+  <p> 2) Write a C++ Program to Store value entered by user in three-dimensional array and display it. </p>
+  <p> 3) Write a program which takes two 2d Arrays/matrix and find sum of both using 3rd 2d array/matrix. </p>
+  <p> 4) Write a program which takes two 2d Arrays/matrix and find product of both using 3rd 2d array/matrix. (NOTE: matrix is square matrix of 3x3). </p>
+  <p> 5) Write a program to find the length of string.</p>
+  <p> 6) Write a program to display string from backward.</p>
+  <p> 7) Write a program to concatenate one string contents to another.</p>
+  <p> 8) Write a program to compare two strings they are exact equal or not </p>
+  <p> 9) Write a program to check a string is palindrome or not. </p>
+  <p> 10) Write a program to print the left diagonal of a 2d square matrix of any size. Also find its sum </p>
+  <p> 11) Write a program to print the Right diagonal of a 2d square matrix of any size. Also find its sum </p>
+  
+   <b><h3> Level 8 Tasks  ******************************************************************************** </h3></b>
+  <p> 1) </p>
+  <p> 2) </p>
+  <p> 3) </p>
+  <p> 4) </p>
+  <p> 5) </p>
+  <p> 6) </p>
+  <p> 7) </p>
+  <p> 8) </p>
+  <p> 9) </p>
+  <p> 10) </p>
+  
+   <b><h3> Level 9 Tasks  ******************************************************************************** </h3></b>
+  <p> 1) </p>
+  <p> 2) </p>
+  <p> 3) </p>
+  <p> 4) </p>
+  <p> 5) </p>
+  <p> 6) </p>
+  <p> 7) </p>
+  <p> 8) </p>
+  <p> 9) </p>
+  <p> 10) </p>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
